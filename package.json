@@ -1,0 +1,15 @@
+{
+  "name": "iana-windows",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "eslint": "eslint index.js ",
+    "test": "npm run eslint "
+  },
+  "author": "mejdi.ourir@gmail.com",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint-plugin-ivs": "^2.1.0"
+  }
+}
